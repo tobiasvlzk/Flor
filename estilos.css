@@ -23,7 +23,7 @@ header h1{
 nav{
    background: #c43333;
    height: 50px;
-   border-bottom: 5px solid #ffffff;
+   border-bottom: 5px solid#FFB6C1;
 }
 nav ul li{
    float:left;
