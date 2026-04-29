@@ -16,7 +16,7 @@ header h1{
     width: 100%;
     text-align: center;
     
-    color:#AFEEEE;
+    color:#2E8B57;
    
     font-zise:50px;
 }
@@ -29,7 +29,7 @@ nav ul li{
    float:left;
    list-style: none;
    margin: 10px;
-   color: #ffffff;
+   color:#AFEEEE;
    font-size: 20px;
    line-height:30px;
 }
