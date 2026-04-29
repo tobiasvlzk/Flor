@@ -21,7 +21,7 @@ header h1{
     font-zise:50px;
 }
 nav{
-   background: #ffffff;
+   background: ##FFFACD;
    height: 50px;
    border-bottom: 5px solid#FFB6C1;
 }
@@ -58,7 +58,7 @@ aside{
     padding: 10px;
 }
 footer{
-    background: #ffffff;
+    background: #FFB6C1;
     text-align:center;
     height: 50px;
     line-height:10px;
